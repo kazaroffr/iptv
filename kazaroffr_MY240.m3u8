@@ -1,0 +1,712 @@
+#EXTM3U
+#EXTINF:0,2x2
+#EXTGRP:unsorted
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2.m3u8?checkedby:iptvcat.com
+#EXTINF:0,47 Канал
+#EXTGRP:unsorted
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,8 Канал
+#EXTGRP:unsorted
+http://176.99.110.252/stream8/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ACB TV
+#EXTGRP:unsorted
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,1HD Music TV
+#EXTGRP:unsorted
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,360°
+#EXTGRP:unsorted
+http://video1.in-news.ru/360/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,A2
+#EXTGRP:unsorted
+https://sc.id-tv.kz/A2_38_39.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Amedia Hit,RU | Amedia Hit
+#EXTGRP:unsorted
+http://188.93.95.34:80/amediahit/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Amedia Premium,RU | Amedia Premium
+#EXTGRP:unsorted
+http://188.93.95.34:80/amediapremium/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Comedy movies
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/20249?checkedby:iptvcat.com
+#EXTINF:0,Doktor,RU | Doktor
+#EXTGRP:unsorted
+http://188.93.95.34:80/doctor/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Earth TV HD
+#EXTGRP:unsorted
+https://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8?checkedby:iptvcat.com
+#EXTINF:0,EuroNews
+#EXTGRP:unsorted
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8?checkedby:iptvcat.com
+#EXTINF:0,FAN HD
+#EXTGRP:unsorted
+https://hls.goodgame.ru/manifest/157239_master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,FTV HD
+#EXTGRP:unsorted
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fox Life
+#EXTGRP:unsorted
+http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8?checkedby:iptvcat.com
+#EXTINF:0,GlobalStar TV,GlobalStar TV (New!)
+#EXTGRP:unsorted
+http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8?checkedby:iptvcat.com
+#EXTINF:0,HD КИНО
+#EXTGRP:unsorted
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u&checkedby:iptvcat.com
+#EXTINF:0,HDL
+#EXTGRP:unsorted
+http://89.106.234.3:80/hdl_38_39.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Luxury,Luxury HD
+#EXTGRP:unsorted
+http://nano.teleservice.su:8080/hls/luxury.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Pervyj Kanal,RU | Pervyj Kanal
+#EXTGRP:unsorted
+http://188.93.95.34:80/ort/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Pervyj Kanal Europa,RU | Pervyj Kanal Europa
+#EXTGRP:unsorted
+https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Planeta RTR,RU | Planeta RTR
+#EXTGRP:unsorted
+https://edge-1192-ch-gv.filmon.com/live/1738.high.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Public TV of Armenia
+#EXTGRP:unsorted
+http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Prosveshenie
+#EXTGRP:unsorted
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RBK,RU | RBK
+#EXTGRP:unsorted
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RT
+#EXTGRP:unsorted
+https://rt-news.secure.footprint.net/1103.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RT Documentary,RU | RT Documentary
+#EXTGRP:unsorted
+https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RU TV
+#EXTGRP:unsorted
+https://rutv.gcdn.co/streams/1410_1272/480n/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RU | Russia 24,Russia 24
+#EXTGRP:unsorted
+https://edge-1192-ch-gv.filmon.com/live/1744.high.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RU | TV3,TV3
+#EXTGRP:unsorted
+http://188.93.95.34:80/tv3/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RU | Vechernyaya Moskva,Vechernyaya Moskva
+#EXTGRP:unsorted
+http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RU | Аuto 24,Аuto 24
+#EXTGRP:unsorted
+http://188.93.95.34:80/auto24/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RU | Аuto Plus,Аuto Plus
+#EXTGRP:unsorted
+http://188.93.95.34:80/autoplus/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RU | Кino Svidanie,Кino Svidanie
+#EXTGRP:unsorted
+http://188.93.95.34:80/kinosvidanie/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RU | Мoscow 24,Мoscow 24,Москва 24 HD
+#EXTGRP:unsorted
+https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RU.TV
+#EXTGRP:unsorted
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Russian Music Box
+#EXTGRP:unsorted
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SONG TV Russia
+#EXTGRP:unsorted
+http://songtvru.ru:8060/hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SPORTS HD
+#EXTGRP:unsorted
+http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD_720.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TV XXI (ВРТ)
+#EXTGRP:unsorted
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Univer HD
+#EXTGRP:unsorted
+http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8?checkedby:iptvcat.com
+#EXTINF:0,WFC TV,World Fashion Channel Россия
+#EXTGRP:unsorted
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,WFC TV International HD,World Fashion Channel International [FHD]
+#EXTGRP:unsorted
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,В гостях у сказки
+#EXTGRP:unsorted
+http://185.112.140.9:8000/play/a02x?checkedby:iptvcat.com
+#EXTINF:0,Время
+#EXTGRP:unsorted
+http://78.107.248.201:4022/udp/233.33.210.61:5050?checkedby:iptvcat.com
+#EXTINF:0,ДОЖДЬ
+#EXTGRP:unsorted
+https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Кино UHD
+#EXTGRP:unsorted
+http://188.35.9.18:16050/udp/238.0.16.1:69000?checkedby:iptvcat.com
+#EXTINF:0,Классика кино,Классика кино HD
+#EXTGRP:unsorted
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Красная линия,Красная линия ТВ
+#EXTGRP:unsorted
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,МАТЧ!
+#EXTGRP:unsorted
+http://31.40.128.20/hls/003_match_tv.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Министерство идей HD
+#EXTGRP:unsorted
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Мир,Мир HD
+#EXTGRP:unsorted
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Мир 24
+#EXTGRP:unsorted
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Мир Premium
+#EXTGRP:unsorted
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Москва 24
+#EXTGRP:unsorted
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Моя Планета
+#EXTGRP:unsorted
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Наука 2.0
+#EXTGRP:unsorted
+http://188.35.9.11:11152/q?checkedby:iptvcat.com
+#EXTINF:0,Ника TV,Ника ТВ
+#EXTGRP:unsorted
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Новый мир
+#EXTGRP:unsorted
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Общественное Независимое Телевидение
+#EXTGRP:unsorted
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:unsorted
+http://188.35.9.11:2015?checkedby:iptvcat.com
+#EXTINF:0,Первый канал
+#EXTGRP:unsorted
+http://31.40.128.20/hls/001_perviy.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Первый космический HD
+#EXTGRP:unsorted
+http://re.strah.video:1234/play/kosmohd?auth=zarin:RJsKR&checkedby:iptvcat.com
+#EXTINF:0,Пятый канал
+#EXTGRP:unsorted
+http://31.40.128.20/hls/005_5_kanal.m3u8?checkedby:iptvcat.com
+#EXTINF:0,РБК
+#EXTGRP:unsorted
+http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc&checkedby:iptvcat.com
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:unsorted
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,РЖД ТВ
+#EXTGRP:unsorted
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Рен ТВ
+#EXTGRP:unsorted
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Россия
+#EXTGRP:unsorted
+http://31.40.128.20/hls/002_rossiya_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Россия 24
+#EXTGRP:unsorted
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Россия К
+#EXTGRP:unsorted
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Россия РТР
+#EXTGRP:unsorted
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,СТБ
+#EXTGRP:unsorted
+http://188.35.9.11:2002?checkedby:iptvcat.com
+#EXTINF:0,ТВЦ (Международный)
+#EXTGRP:unsorted
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ТНВ Планета
+#EXTGRP:unsorted
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ТНТ 4 HD
+#EXTGRP:unsorted
+http://195.191.208.2:8086/udp/233.170.170.130:58631?checkedby:iptvcat.com
+#EXTINF:0,Че (Север ) +2
+#EXTGRP:unsorted
+http://tvsever.ru:8080/hls/ach2.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Шансон ТВ,Шансон-ТВ
+#EXTGRP:unsorted
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Эхо ТВ
+#EXTGRP:unsorted
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AMGA
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30014?checkedby:iptvcat.com
+#EXTINF:0,ARTN TV
+#EXTGRP:unsorted
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ARTN Tv HD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30019?checkedby:iptvcat.com
+#EXTINF:0,ATV FHD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30020?checkedby:iptvcat.com
+#EXTINF:0,Amga
+#EXTGRP:unsorted
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Ararat FHD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30015?checkedby:iptvcat.com
+#EXTINF:0,Arm News FHD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30018?checkedby:iptvcat.com
+#EXTINF:0,Erkir Media HD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30023?checkedby:iptvcat.com
+#EXTINF:0,Filmzone TV
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30024?checkedby:iptvcat.com
+#EXTINF:0,H1
+#EXTGRP:unsorted
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,H2 TV HD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30026?checkedby:iptvcat.com
+#EXTINF:0,H3 TV HD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30027?checkedby:iptvcat.com
+#EXTINF:0,HayTV
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30029?checkedby:iptvcat.com
+#EXTINF:0,Kentron HD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30030?checkedby:iptvcat.com
+#EXTINF:0,Kinoman
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30031?checkedby:iptvcat.com
+#EXTINF:0,Luys SD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30032?checkedby:iptvcat.com
+#EXTINF:0,Panarmenian TV
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30033?checkedby:iptvcat.com
+#EXTINF:0,Radio Van 103.0 FM Yerevan
+#EXTGRP:unsorted
+http://stream.radiovan.fm/stream/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SONG TV Armenia
+#EXTGRP:unsorted
+http://songtvam.ru:8060/hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Shant Music HD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30034?checkedby:iptvcat.com
+#EXTINF:0,Shant TV
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/20650?checkedby:iptvcat.com
+#EXTINF:0,TBN Armenia
+#EXTGRP:unsorted
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,US Armenia TV
+#EXTGRP:unsorted
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Xaxaliq
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/30037?checkedby:iptvcat.com
+#EXTINF:0,premiere
+#EXTGRP:unsorted
+http://91.103.248.82:81/play/a003?checkedby:iptvcat.com
+#EXTINF:0,ABC News International
+#EXTGRP:unsorted
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AMC
+#EXTGRP:unsorted
+http://doubleagechanmain.com:80/123456/123456/1485?checkedby:iptvcat.com
+#EXTINF:0,Accuweather
+#EXTGRP:unsorted
+http://doubleagechanmain.com:80/123456/123456/10241?checkedby:iptvcat.com
+#EXTINF:0,Adult Swim,US | Adult Swim
+#EXTGRP:unsorted
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Al Jazeera
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/169402.m3u8?checkedby:iptvcat.com
+#EXTINF:0,America's Funniest Videos
+#EXTGRP:unsorted
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,American Classic Network,American Classic TV
+#EXTGRP:unsorted
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,American Horrors
+#EXTGRP:unsorted
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Animal Planet
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/20642?checkedby:iptvcat.com
+#EXTINF:0,BBC America
+#EXTGRP:unsorted
+http://69.64.33.127:25461/LifeUsu04/C0251/20743?checkedby:iptvcat.com
+#EXTINF:0,BBC World News
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/2085.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BOOMERANG USA
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/3550?checkedby:iptvcat.com
+#EXTINF:0,Bloomberg
+#EXTGRP:unsorted
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Bloomberg TV
+#EXTGRP:unsorted
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Bravo
+#EXTGRP:unsorted
+http://doubleagechanmain.com:80/123456/123456/1501?checkedby:iptvcat.com
+#EXTINF:0,C-SPAN
+#EXTGRP:unsorted
+http://doubleagechanmain.com:80/123456/123456/10855?checkedby:iptvcat.com
+#EXTINF:0,CBS
+#EXTGRP:unsorted
+http://plus-tv.us:8080/live/27/27/14623.ts?checkedby:iptvcat.com
+#EXTINF:0,CBS 2 Los Angeles
+#EXTGRP:unsorted
+http://doubleagechanmain.com:80/123456/123456/1505?checkedby:iptvcat.com
+#EXTINF:0,CINEMAX 5 STARMAX
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/224.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CINEMAX ACTIONMAX
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/225.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CINEMAX EAST
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/3527?checkedby:iptvcat.com
+#EXTINF:0,CINEMAX WEST
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/2065.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CInemax Outermax
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/96072.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CNBC
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/136.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CNBC World SD
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/2079.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CNN International
+#EXTGRP:unsorted
+http://m-iptv.net:6204/95025267076109/65839594001441/20592?checkedby:iptvcat.com
+#EXTINF:0,California Music Channel
+#EXTGRP:unsorted
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Cartoon Network
+#EXTGRP:unsorted
+http://plus-tv.us:8080/live/27/27/14587.ts?checkedby:iptvcat.com
+#EXTINF:0,Cinemax Action 2 FHD
+#EXTGRP:unsorted
+http://152.89.61.152:6204/60400655844704/32991126026152/43542?checkedby:iptvcat.com
+#EXTINF:0,Cinemax East
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/43540?checkedby:iptvcat.com
+#EXTINF:0,Cinemax FHD
+#EXTGRP:unsorted
+http://m-iptv.net:6204/95025267076109/65839594001441/43537?checkedby:iptvcat.com
+#EXTINF:0,Cinemax More HD
+#EXTGRP:unsorted
+http://152.89.61.152:6204/60400655844704/32991126026152/43533?checkedby:iptvcat.com
+#EXTINF:0,Cinemax ThrillerMax
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/93551.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Cinemaxx More Maxx HD
+#EXTGRP:unsorted
+http://m-iptv.net:6204/95025267076109/65839594001441/43534?checkedby:iptvcat.com
+#EXTINF:0,Classic Movies
+#EXTGRP:unsorted
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:iptvcat.com
+#EXTINF:0,Comedy Central
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/20591?checkedby:iptvcat.com
+#EXTINF:0,Comedy TV
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/175163.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Cooking 4U,Cooking 4U (New!)
+#EXTGRP:unsorted
+https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,DISCOVERY SCIENCIA
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/3531?checkedby:iptvcat.com
+#EXTINF:0,DISCOVERY THEATHER
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/3529?checkedby:iptvcat.com
+#EXTINF:0,DISCOVERY WORLD
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/3530?checkedby:iptvcat.com
+#EXTINF:0,DISNEY CHANNEL
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/105?checkedby:iptvcat.com
+#EXTINF:0,DISNEY JR
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/205.m3u8?checkedby:iptvcat.com
+#EXTINF:0,DISNEY XD
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/210.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Discovery Channel
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/104600.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Discovery Family
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/104666.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Discovery Science
+#EXTGRP:unsorted
+http://plus-tv.us:8080/live/27/27/14558.ts?checkedby:iptvcat.com
+#EXTINF:0,Discovery Life
+#EXTGRP:unsorted
+http://doubleagechanmain.com:80/123456/123456/1522?checkedby:iptvcat.com
+#EXTINF:0,Discovery Science HD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/20640?checkedby:iptvcat.com
+#EXTINF:0,Disney Junior SD
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/2059.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Disney XD
+#EXTGRP:unsorted
+http://152.89.61.152:6204/60400655844704/32991126026152/20585?checkedby:iptvcat.com
+#EXTINF:0,E!
+#EXTGRP:unsorted
+http://plus-tv.us:8080/live/1899/1899/14575.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ENCORE EAST
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/3525?checkedby:iptvcat.com
+#EXTINF:0,ENCORE FAMILY
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/3526?checkedby:iptvcat.com
+#EXTINF:0,FOX 11 Los Angeles
+#EXTGRP:unsorted
+http://doubleagechanmain.com:80/123456/123456/1532?checkedby:iptvcat.com
+#EXTINF:0,Food Network
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/104522.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fox Soccer Plus
+#EXTGRP:unsorted
+http://plus-tv.us:8080/live/27/27/14655.ts?checkedby:iptvcat.com
+#EXTINF:0,HBO 2
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/3521?checkedby:iptvcat.com
+#EXTINF:0,HBO Comedy
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/72.m3u8?checkedby:iptvcat.com
+#EXTINF:0,HBO EAST
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/2659?checkedby:iptvcat.com
+#EXTINF:0,HBO FAMILY
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/3520?checkedby:iptvcat.com
+#EXTINF:0,HBO PLUS ESTE
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/3536?checkedby:iptvcat.com
+#EXTINF:0,HBO WEST
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/3533?checkedby:iptvcat.com
+#EXTINF:0,HBO ZONE
+#EXTGRP:unsorted
+http://plus-tv.us:8080/live/27/27/14605.ts?checkedby:iptvcat.com
+#EXTINF:0,Hallmark Movies & Mysteries
+#EXTGRP:unsorted
+http://doubleagechanmain.com:80/123456/123456/1552?checkedby:iptvcat.com
+#EXTINF:0,KTLA 5 LOS ANGELES
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/101872.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Lifetime Movie Network
+#EXTGRP:unsorted
+http://doubleagechanmain.com:80/123456/123456/1564?checkedby:iptvcat.com
+#EXTINF:0,Lifetime HD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/43570?checkedby:iptvcat.com
+#EXTINF:0,MGM
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/104702.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MSNBC
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/2014.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MTV
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/104547.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MTV,MTV (Latin America)
+#EXTGRP:unsorted
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MTV 2
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/104548.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MTV Classic
+#EXTGRP:unsorted
+http://doubleagechanmain.com:80/123456/123456/10884?checkedby:iptvcat.com
+#EXTINF:0,MTV LIVE
+#EXTGRP:unsorted
+http://doubleagechanmain.com:80/123456/123456/10885?checkedby:iptvcat.com
+#EXTINF:0,Movie Kingdom
+#EXTGRP:unsorted
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Movieplex
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/96073.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NASA TV
+#EXTGRP:unsorted
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Nat Geo WILD
+#EXTGRP:unsorted
+http://doubleagechanmain.com:80/123456/123456/1577?checkedby:iptvcat.com
+#EXTINF:0,National Geographic
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/104610.m3u8?checkedby:iptvcat.com
+#EXTINF:0,PBS KIDS
+#EXTGRP:unsorted
+http://plus-tv.us:8080/live/27/27/14568.ts?checkedby:iptvcat.com
+#EXTINF:0,Paramount Network
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/104561.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Retro TV
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/175171.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Retro Plus TV,Retroplus Tv
+#EXTGRP:unsorted
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,STARZ EAST
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/111513.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ShowTime Family Zone HD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/43569?checkedby:iptvcat.com
+#EXTINF:0,Showtime Beyond
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/96106.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Showtime East HD
+#EXTGRP:unsorted
+http://m-iptv.net:6204/95025267076109/65839594001441/43562?checkedby:iptvcat.com
+#EXTINF:0,Showtime Extreme
+#EXTGRP:unsorted
+http://plus-tv.us:8080/live/27/27/14681.ts?checkedby:iptvcat.com
+#EXTINF:0,Showtime HD
+#EXTGRP:unsorted
+http://69.64.33.127:25461/LifeUsu04/C0251/18905?checkedby:iptvcat.com
+#EXTINF:0,Showtime Next
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/96107.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Showtime Showcase
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/96108.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Showtime West
+#EXTGRP:unsorted
+http://plus-tv.us:8080/live/1899/1899/14683.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Starz Encore Classic
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/93394.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Starz Encore Suspense
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/93546.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Starz Encore Western
+#EXTGRP:unsorted
+http://69.64.33.127:25461/LifeUsu04/C0251/335?checkedby:iptvcat.com
+#EXTINF:0,Starz Kids & Family
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/82.m3u8?checkedby:iptvcat.com
+#EXTINF:0,US- Starz Encore Black HD
+#EXTGRP:unsorted
+http://linux-app.tv:6204/15020208413552/24021189856304/43549?checkedby:iptvcat.com
+#EXTINF:0,COMEDY CENTRAL  SD
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/164483.m3u8?checkedby:iptvcat.com
+#EXTINF:0,DMAX
+#EXTGRP:unsorted
+http://m-iptv.net:6204/95025267076109/65839594001441/30839?checkedby:iptvcat.com
+#EXTINF:0,E!
+#EXTGRP:unsorted
+http://152.89.61.152:6204/60400655844704/32991126026152/30837?checkedby:iptvcat.com
+#EXTINF:0,Voice of America,Voice of America (PST)
+#EXTGRP:unsorted
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,US- Universal Kids
+#EXTGRP:unsorted
+http://linux-app.tv:6204/15020208413552/24021189856304/20518?checkedby:iptvcat.com
+#EXTINF:0,Tru TV
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/104585.m3u8?checkedby:iptvcat.com
+#EXTINF:0,US- Cartoon Network
+#EXTGRP:unsorted
+http://linux-app.tv:6204/15020208413552/24021189856304/20602?checkedby:iptvcat.com
+#EXTINF:0,US- HBO Signature
+#EXTGRP:unsorted
+http://linux-app.tv:6204/15020208413552/24021189856304/20560?checkedby:iptvcat.com
+#EXTINF:0,US- HBO
+#EXTGRP:unsorted
+http://linux-app.tv:6204/15020208413552/24021189856304/20563?checkedby:iptvcat.com
+#EXTINF:0,The Outdoor Cooking Channel,US | The Outdoor Cooking Channel
+#EXTGRP:unsorted
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Travel Channel
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/104613.m3u8?checkedby:iptvcat.com
+#EXTINF:0,THE MOVIE CHANNEL
+#EXTGRP:unsorted
+http://cdn.miip.tv:8080/canada/123456/3515?checkedby:iptvcat.com
+#EXTINF:0,TLC
+#EXTGRP:unsorted
+http://69.64.33.127:25461/LifeUsu04/C0251/289?checkedby:iptvcat.com
+#EXTINF:0,TNT
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/104583.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sony Movies
+#EXTGRP:unsorted
+http://152.89.61.152:6204/60400655844704/32991126026152/20536?checkedby:iptvcat.com
+#EXTINF:0,Spike (Opt-2)
+#EXTGRP:unsorted
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sports man Channel
+#EXTGRP:unsorted
+http://m-iptv.net:6204/95025267076109/65839594001441/33452?checkedby:iptvcat.com
+#EXTINF:0,Starz
+#EXTGRP:unsorted
+http://plus-tv.us:8080/live/1899/1899/14602.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Starz Cinema
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/93370.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Starz Comedy
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/79.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Starz Edge
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/80.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Starz Encore
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/81.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sundance
+#EXTGRP:unsorted
+http://plus-tv.us:8080/live/27/27/14614.ts?checkedby:iptvcat.com
+#EXTINF:0,SyFy
+#EXTGRP:unsorted
+http://plus-tv.us:8080/live/27/27/14569.ts?checkedby:iptvcat.com
+#EXTINF:0,Sony Movie Channel
+#EXTGRP:unsorted
+http://thenew.tv:8000/live/Dante/Dante1/2073.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Bmecte Po HD
+#EXTGRP:unsorted
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Friday International,RU | Friday International
+#EXTGRP:unsorted
+http://188.93.95.34:80/friday/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Indiyskoe Kino,RU | Indiyskoe Kino
+#EXTGRP:unsorted
+http://188.93.95.34:80/indiyskoekino/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Impact TV
+#EXTGRP:unsorted
+http://206.190.141.27:1935/live/impact/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Our new movies
+#EXTGRP:unsorted
+http://linux-app.tv:6204/60400655844704/32991126026152/20252?checkedby:iptvcat.com
+#EXTINF:0,Дом кино
+#EXTGRP:unsorted
+http://78.107.248.201:4022/udp/233.33.210.124:5050?checkedby:iptvcat.com
+#EXTINF:0,Домашний
+#EXTGRP:unsorted
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ПЯТНИЦА! HD
+#EXTGRP:unsorted
+http://85.112.114.11:8086/udp/233.170.170.112:58631?checkedby:iptvcat.com
+#EXTINF:0,Россия 1 HD
+#EXTGRP:unsorted
+https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8?checkedby:iptvcat.com
